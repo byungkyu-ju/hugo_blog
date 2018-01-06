@@ -1,12 +1,12 @@
 
-baseurl = "/"
+baseurl = "https://byungkyu-ju.github.io"
 languageCode = "ko-kr"
 title = "주병규의 기술블로그"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
 disqusShortname = "byungkyu-ju-github-io"
-googleAnalytics = ""
+googleAnalytics = "UA-111891173-1"
 pluralizeListTitles = false
 
 [params]

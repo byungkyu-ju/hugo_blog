@@ -1,16 +1,18 @@
 +++
 type = "itemized"
 author = "Jubyungkyu"
-date = "2017-06-22"
-title = "준비중입니다.."
-description = "Not yet"
+date = "2017-12-29"
+title = "github blog"
+description = "github blog"
 featured = ""
 featuredpath = ""
 featuredalt = ""
 categories = [""]
 linktitle = ""
-format = "Java"
+format = "Go"
 link = "#"
 +++
 
-## App 1
+## Github blog
+
+<a href="https://byungkyu-ju.github.io" target="_blank">github blog</a>
